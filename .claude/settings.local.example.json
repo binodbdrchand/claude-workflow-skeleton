@@ -1,0 +1,11 @@
+{
+  "env": {
+    "ANTHROPIC_BASE_URL": "<proxy-base-url or remove this key for api.anthropic.com>",
+    "ANTHROPIC_AUTH_TOKEN": "<your-auth-token-here>",
+    "ANTHROPIC_API_KEY": "",
+    "ANTHROPIC_MODEL": "<model-id>"
+  },
+  "enabledPlugins": {},
+  "showThinkingSummaries": false,
+  "autoMemoryEnabled": false
+}
